@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans;
+  background-color: #46a29f;
+}
+
+#container {
+  margin: auto;
+  width: 100%;
+}
+
+#displaybox {
+  width: 80%;
+  margin: auto;
+  background-color: #0b0c10;
+  color: #66fcf1;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 100px;
+  padding: 50px;
+}
+#header {
+  -padding: 40px;
+}
+
+textarea {
+  background-color: #c5c6c8;
+  color: #46a29f;
+  font-size: 13px;
+  min-height: 400px;
+  max-width: 100%;
+  min-width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.outputbox {
+  background: #c5c6c8;
+  border: 3px solid #202933;
+  color: #46a29f;
+  font-size: 13px;
+  font-weight: bold;
+  margin: auto;
+  margin-top: 20px;
+  min-height: 50px;
+}
